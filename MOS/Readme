@@ -21,7 +21,8 @@
     Ví dụ thông báo: .NET Framework 4.5.2 or higher is required. Please install .NETFramework before...
     *Xử lý như sau:
       B1. Tắt phần cài đặt Gmetrix
-      B2. Tải phần mềm .NET Framwork 4.5.2 về máy: https://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C560427900/NDP452-KB2901907-x86-x64-AllOS-ENU.exe
-      B3. D_click lên tập tin NDP452-KB2901907-x86-x64-AllOS-ENU.exe vừa tải về để tiến hành cài đặt. Nếu trong quá trình cài đặt .NETFramework phát hiện phần mềm nào đang chạy dịch vụ của nó. NETFramewok sẽ yêu cầu đống ứng dụng này. Click YES để đóng các ứng dụng tương ứng.
-      B4. 
+      B2. Tải phần mềm .NET Framwork 4.5.2 về máy: https://download.microsoft.com/download/C/3/A/C3A5200B-D33C-47E9-9D70-2F7C65DAAD94/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
+      B3. D_click lên tập tin NDP46-KB3045557-x86-x64-AllOS-ENU.exe vừa tải về để tiến hành cài đặt. Nếu trong quá trình cài đặt .NETFramework phát hiện phần mềm nào đang chạy dịch vụ của nó. NETFramewok sẽ yêu cầu đống ứng dụng này. Click YES để đóng các ứng dụng tương ứng.
+      B4. Restart máy tính
+      
       
