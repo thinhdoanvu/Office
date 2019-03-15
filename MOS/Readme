@@ -1,4 +1,4 @@
-#Bước 0 - Yêu cầu cấu hình máy tính (System Requirements)
+#Bước 0 - YÊU CẦU CẤU HÌNH MÁY TÍNH (System Requirements)
   CPU: 1.00 GHz hoặc cao hơn (tương đương Pentium 4 trở lên. Ví dụ: core-i3, core-i5, core-i7)
   RAM: Tối thiểu 1 GB
   Dung lượng ổ C: ít nhất 250 MB (chú ý 250 MB chứ không phải 250 GB)
@@ -11,10 +11,10 @@
   Adobe Flash Player: Phiên bản mới nhất.
   
 
-#Bước 1 - Tải về phần mềm Gmetrix: https://www.gmetrix.net/Download/Live/en-US/GMetrixSMS_enUS_6.1.964.msi
+#Bước 1 - TẢI VỀ PHẦN MỀM Gmetrix: https://www.gmetrix.net/Download/Live/en-US/GMetrixSMS_enUS_6.1.964.msi
 
 
-#Bước 2 - Tiến hành cài đặt Gmetrix
+#Bước 2 - TIẾN HÀNH CÀI ĐẶT Gmetrix
   2.1. D_clik tập tin GMetrixSMS_enUS_6.1.964.msi sau khi tải về để tiến hành cài đặt.
   
   2.2. Trong quá trình cài đặt nếu có lỗi phát sinh khi kiểm tra phần mềm bổ trợ cho Gmetrix, phần mềm sẽ hiện thông báo.
@@ -24,5 +24,49 @@
       B2. Tải phần mềm .NET Framwork 4.5.2 về máy: https://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C560427900/NDP452-KB2901907-x86-x64-AllOS-ENU.exe
       B3. D_click lên tập tin NDP452-KB2901907-x86-x64-AllOS-ENU.exe vừa tải về để tiến hành cài đặt. Nếu trong quá trình cài đặt .NETFramework phát hiện phần mềm nào đang chạy dịch vụ của nó. NETFramewok sẽ yêu cầu đống ứng dụng này. Click YES để đóng các ứng dụng tương ứng.
       B4. Restart máy tính
+      B5. Thực hiện Setup lại Gmetrix
+  
+  2.3. Các thông báo và lựa chọn khi cài đặt Gmetrix
+      Choose Setup Type: Typical
+      Ready to install Gmetrix: Install
+      Complete Gmetrix setup wizard: Finish
+      
+ #Bước 3 - THIẾT LẬP THÔNG TIN TÀI KHOẢN (account) CHO Gmetrix
+    B1. Mở phần mềm Gmetrix (shortcut trên Desktop)
+    B2. Click Sign up để đăng ký thông tin.
+    B3. Điền các thông tin cho mục Signup như sau:
+      First name: Tên gọi
+      Last name: Họ và đệm
+      Select Country: Viet nam
+      Province/State: Bỏ qua
+      Student number: Bỏ qua
+      Email: địa chỉ email sẽ nhận thông tin tài khoản
+      Username: Tên đăng nhập 
+      Password: Đặt password
+      Confirm Password: Xác nhận lại password có trùng khớp hay chưa
+      Chọn 1 câu hỏi để phục hồi tài khoản. Ví dụ: How many siblings do you have?
+      Chọn đáp án trả lời:
+      
+    B4. Kiểm tra thông tin account
+      Khi nhận được thông báo SUCCESS! A new account for thinhdv has been created. trên màn hình
+      Quay trở lại phần mềm Gmetrix và đăng nhập với các thông tin đã đăng ký 
+    
+    
+    #Bước 4 - LÀM QUEN VỚI GIAO DIỆN Gmetrix
+      Có 4 chức năng lựa chọn:
+      
+      4.1. Start new test
+        
+        B1. Thông báo yêu cầu Redeem an acces code: nhập code mà bạn được cung cấp:XXXXX-XXXXXXX-XXXXX
+        B2. Click Redeem a code
+        B3. Click Take a test - Chọn phần mềm đã đăng ký: MS Ofice 2013
+        B4. Click môn thi đã đăng ký: MS Word 2013: 77-418
+        B5. Lựa chọn ngôn ngữ: English
+        B6. Có 6 phần thi. Mỗi phần thi có 2 chức năng: Training mode và Testing mode
+        B7. Hãy bắt đầu với Word Practice core Exam 1 và sử dụng chức năng Training Mode 
+      
+      4.2. Resum a test
+      4.3. Completed test
+      4.4. Redeem a code
       
       
