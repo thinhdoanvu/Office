@@ -33,7 +33,7 @@ ex: User\Public
 	1.2. Click Remote Settings
 	2.3. Remote Destop Frame
 	2.3. Click Allow connections to this computer
-![Allow remote Settings](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Cannot%20change%20Turn%20off%20password%20sharing.PNG)
+![Allow remote Settings](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Allow%20Remote%20Settings.PNG)
 # 2. Step 2. Remove password
 	2.1. Click Control Panel 
 	2.2. Click Administrative Tools
@@ -44,4 +44,4 @@ ex: User\Public
 	3.2. Click Security Options
 	3.3. Locate Accounts: Limit local account use of blank passwords to console logon only policy
 	3.2. Click Disabled
-![blank passwords for remote](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Cannot%20change%20Turn%20off%20password%20sharing.PNG)
+![blank passwords for remote](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Disabled%20Password%20Remote%20Desktop.PNG)
