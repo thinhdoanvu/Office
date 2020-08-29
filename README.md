@@ -1,7 +1,7 @@
 # Unlimited sharing folder in Win10
 
 ## 1. Step 1. Shared any folder first
-ex: User\Public
+ex: User\Publics
 ## 2. Step 2. Disable Maximum allowed
 	2.1. R_Click ThisPC
 	2.2. Click Manage
@@ -32,7 +32,7 @@ ex: User\Public
 	1.1. Open Control Panel
 	1.1. Click System
 	1.2. Click Remote Settings
-	2.3. Remote Destop Frame
+	2.3. Remote Desktop Frame
 	2.3. Click Allow connections to this computer
 ![Allow remote Settings](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Allow%20Remote%20Settings.PNG)
 # 2. Step 2. Remove password
