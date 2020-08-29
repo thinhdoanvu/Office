@@ -11,10 +11,7 @@ ex: User\Public
 	2.6. Click Disable Maximum allowed
 	2.7. Click Allow this number of user: 90 or some thing elses
 ## 3. Step 3. Click OK to finish
-image:: https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/unlimited%20sharing%20folder%20in%20Win10.PNG
-  :height: 100px
-  :width: 200 px
-  :scale: 50 %
+![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/unlimited%20sharing%20folder%20in%20Win10.PNG)
   
 # Disable connect to another PC without Password require Or Cannot change Turn off password sharing in All Network configuration
 
