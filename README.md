@@ -21,7 +21,7 @@ ex: User\Public
 	1.3. Click Local Users and Groups on the Left pane
 	1.4. D_Click Users (Left or Left pane)
 	1.5. D_Click any User
-![Remove Users password](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Cannot%20change%20Turn%20off%20password%20sharing.PNG)
+![Remove Users password](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Remove%20password.png)
 ## 2. Step 2. Change password by Enter key (remove password) 
 ![Cannot change Turn off password sharing](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Cannot%20change%20Turn%20off%20password%20sharing.PNG)
 
