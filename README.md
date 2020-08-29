@@ -11,10 +11,9 @@ ex: User\Public
 4. Step 4. Click Allow this number of user: 90 or some thing elses
 5. Step 5. Click OK to finish
 
-//////////////////////////////////
-Disable connect to another PC without Password require
+# Disable connect to another PC without Password require
 Or Cannot change Turn off password sharing in All Network configuration
-/////////////////////////////////
+
 1. Step 1. R_Click ThisPC
 	1.1. Click Manage
 	1.2. Click Local Users and Groups on the Left pane
