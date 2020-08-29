@@ -21,8 +21,9 @@ ex: User\Public
 	1.3. Click Local Users and Groups on the Left pane
 	1.4. D_Click Users (Left or Left pane)
 	1.5. D_Click any User
+![Remove Users password](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Cannot%20change%20Turn%20off%20password%20sharing.PNG)
 ## 2. Step 2. Change password by Enter key (remove password) 
-![Unlimited sharing folder in Win10](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/unlimited%20sharing%20folder%20in%20Win10.PNG)
+![Cannot change Turn off password sharing](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Cannot%20change%20Turn%20off%20password%20sharing.PNG)
 
 # Remote Desktop without Password requirement
 
@@ -32,6 +33,7 @@ ex: User\Public
 	1.2. Click Remote Settings
 	2.3. Remote Destop Frame
 	2.3. Click Allow connections to this computer
+![Allow remote Settings](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Cannot%20change%20Turn%20off%20password%20sharing.PNG)
 # 2. Step 2. Remove password
 	2.1. Click Control Panel 
 	2.2. Click Administrative Tools
@@ -42,3 +44,4 @@ ex: User\Public
 	3.2. Click Security Options
 	3.3. Locate Accounts: Limit local account use of blank passwords to console logon only policy
 	3.2. Click Disabled
+![blank passwords for remote](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Cannot%20change%20Turn%20off%20password%20sharing.PNG)
