@@ -1,18 +1,17 @@
 # unlimited sharing folder in Win10
 
-1. Step 1. Shared any folder first
+## 1. Step 1. Shared any folder first
 ex: User\Public
-2. Step 2. R_Click ThisPC
+## 2. Step 2. R_Click ThisPC
 	2.1. Click Manage
 	2.2. Click Share Folder on the Left pane
 	2.3. D_Click Shares (Left or Right pane)
 	2.3. D_Click Publics folder icons on the right pane
-3. Step 3. Disable Maximum allowed
-4. Step 4. Click Allow this number of user: 90 or some thing elses
-5. Step 5. Click OK to finish
+## 3. Step 3. Disable Maximum allowed
+## 4. Step 4. Click Allow this number of user: 90 or some thing elses
+## 5. Step 5. Click OK to finish
 
-# Disable connect to another PC without Password require
-Or Cannot change Turn off password sharing in All Network configuration
+# Disable connect to another PC without Password require Or Cannot change Turn off password sharing in All Network configuration
 
 1. Step 1. R_Click ThisPC
 	1.1. Click Manage
@@ -21,9 +20,8 @@ Or Cannot change Turn off password sharing in All Network configuration
 	2.3. D_Click any User
 2. Step 3. Change password by Enter key (remove password) 
 
-//////////////////////////////////
-Remote Desktop without Password requirement
-/////////////////////////////////
+# Remote Desktop without Password requirement
+
 1. Step 1. Control Panel
 	1.1. Click System
 	1.2. Click Remote Settings
