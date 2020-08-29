@@ -22,7 +22,7 @@ ex: User\Public
 	1.4. D_Click Users (Left or Left pane)
 	1.5. D_Click any User
 ## 2. Step 2. Change password by Enter key (remove password) 
-
+![Unlimited sharing folder in Win10](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/unlimited%20sharing%20folder%20in%20Win10.PNG)
 
 # Remote Desktop without Password requirement
 
