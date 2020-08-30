@@ -46,3 +46,9 @@ ex: User\Publics
 	3.3. Locate Accounts: Limit local account use of blank passwords to console logon only policy
 	3.2. Click Disabled
 ![blank passwords for remote](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/Disabled%20Password%20Remote%20Desktop.PNG)
+
+# Adding Windows Boot after Install Ubuntu OR Losing Windows Boot
+## 1. sudo os-prober
+## 2. sudo update-grub
+## 3. sudo apt-get update
+![Adding Windows Boot in Ubuntu](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/add_Windowsboot_inUbuntu.PNG)
