@@ -51,4 +51,4 @@ ex: User\Publics
 ## 1. sudo os-prober
 ## 2. sudo update-grub
 ## 3. sudo apt-get update
-![Adding Windows Boot in Ubuntu](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/add_Windowsboot_inUbuntu.JPG)
+![Adding Windows Boot in Ubuntu](https://github.com/thinhdoanvu/Office/blob/master/Hinh_Anh/add_Windowsboot_inUbuntu.png)
