@@ -1,3 +1,13 @@
+# Cannot change any options due to "server drafts location" error
+![image](https://github.com/user-attachments/assets/7605b07f-abb6-450b-a94a-2fb143148923)
+
+1. Right click on the start button, choose Run then type regedit to open the registry editor.
+2. Browse to HKEY_CURRENT_USER\Software\Microsoft\Office\Common\Offline\Options
+3. Right click and choose New > String and type Location as the name.
+4. D_Click on Location, and add the path to your documents folder. (Example: C:\Users\Public\)
+![image](https://github.com/user-attachments/assets/97e6285e-4e94-46a1-97f3-5ad1210bfeb1)
+
+
 # Unlimited sharing folder in Win10
 
 ## 1. Step 1. Shared any folder first
